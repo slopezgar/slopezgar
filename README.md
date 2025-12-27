@@ -29,7 +29,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,kotlin,js,cs,html,css,postgres,git,vscode,docker,postman,firebase,net,mysql,sql&perline=5"  />
+<img width="400px"  src="https://skillicons.dev/icons?i=py,java,kotlin,js,cs,html,css,postgres,git,vscode,docker,postman,firebase,net,mysql,sql&perline=5"  />
 </p>
 
 <!--Github stats Table--> 
@@ -79,7 +79,6 @@
 
 <br />
 
----
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
